@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Longlin Yu.
+
+- 🔭 I’m currently working on statistical learning research.
+
+
+
 <!--
 **longinYu/longinYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
